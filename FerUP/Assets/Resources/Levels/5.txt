@@ -1,0 +1,8 @@
+      C  D 
+    ------
+
+P
+--
+
+set hasAntiGrav true
+message Anti Gravitational Field makes you immune to gravitation.|Press G to activate.

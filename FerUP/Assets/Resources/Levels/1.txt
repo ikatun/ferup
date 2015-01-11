@@ -1,0 +1,4 @@
+--------------------------------
+|P          C    C          D  |
+--------------------------------
+message Collecting all ECTS points will open the portal.

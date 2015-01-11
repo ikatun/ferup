@@ -1,0 +1,8 @@
+
+              ||||
+              ||||
+P          C  ||||  C  
+------------------------
+                         D
+set hasIksica true
+message Use your left shift button to destroy obstacles. Don't destroy door or coins, you need them.

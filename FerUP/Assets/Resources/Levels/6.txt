@@ -1,0 +1,17 @@
+             |----------------|
+             |                |
+             |                |
+|------|     |       C        |
+|      |-----|                |
+|                             |
+|      |------|      C        |
+|      |      |               |
+|      |------|            D  |
+|       P             C       |
+|      |------|               | 
+|      |      |               |
+|------|      |---------------|
+
+set hasUnzoom true
+set hasAntiGrav true
+message By pressing S you can use your camera to get a better view. Don't forget about the Anti Grav Field too.

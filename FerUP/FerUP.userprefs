@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\IksicaController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="142" Column="41" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="136" Column="5" />
+      <File FileName="Assets\Scripts\IksicaController.cs" Line="24" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

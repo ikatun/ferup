@@ -1,0 +1,8 @@
+                                             
+ P    CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC  D
+
+---
+
+set hasJet true
+set hasUnzoom true
+message Your jet engine can be activated by pressing left alt.
